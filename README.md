@@ -30,4 +30,8 @@ Benefits: Wallet related technical support + Co-promotion in MathWallet + VC int
 
 ## Process
 
-If your GameFi meets the guidelines, you can apply ➡️ [here]()
+If your GameFi meets the guidelines, you can apply ➡️ [here](https://forms.gle/7nMWwincrM6BKj269)
+
+## Questions
+
+If you have any questions, feel free to contact labs@mathwallet.org
