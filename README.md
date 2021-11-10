@@ -23,10 +23,10 @@ Additionally, your project will have better chances to be accepted if:
 
 The Math Grants Program offers below grant to help you best
 
-Target: GameFi teams
-Amount: Up to 5,000 MATH
-Requirements: 2 approvals
-Benefits: Wallet related technical support + Co-promotion in MathWallet + VC introductions
+- Target: GameFi teams
+- Amount: Up to 5,000 MATH
+- Requirements: 2 approvals
+- Benefits: Wallet related technical support + Co-promotion in MathWallet + VC introductions
 
 ## Process
 
